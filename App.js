@@ -21,7 +21,7 @@ export default function App() {
   
     <View style={styles.container}> 
      {/*heather*/}
-     {/* promjena */}
+    
      <Header />
       <View style={styles.content}>
         {/*to do form */}
